@@ -7,7 +7,8 @@ This is an App that allows users to manage their everyday task by doing the foll
 - Add task
 - Edit task
 - Check completed task
-- Delete task. 
+- Delete task.
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
